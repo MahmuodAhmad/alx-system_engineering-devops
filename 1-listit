@@ -1,0 +1,5 @@
+#!/bin/bash
+Get the contents list of the current directory
+contents=$(ls)
+Print the contents list
+echo "$contents"
